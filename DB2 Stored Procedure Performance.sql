@@ -1,6 +1,7 @@
 -- Look at TC1056SP...not
 -- TH0775SP
 -- AD9785SP
+-- Added this comment
 
 SELECT
   WLO.SP_NAME,
